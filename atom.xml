@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-21T10:37:51.000Z</updated>
+  <updated>2018-05-22T06:16:15.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是一个测试</title>
+    <link href="http://yoursite.com/2018/05/22/test/"/>
+    <id>http://yoursite.com/2018/05/22/test/</id>
+    <published>2018-05-22T05:57:53.000Z</published>
+    <updated>2018-05-22T06:16:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla incidunt aliquam nemo ipsam atque fugiat eaque rerum est vitae praesentium iure sed, excepturi accusamus laborum quia doloribus. Natus, cumque obcaecati?<a href="https://www.lipsum.com/" target="_blank" rel="noopener">lipsum</a></p><p>##下面是一段代码</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">const a = 1;</span><br><span class="line">const b = a + 1;</span><br><span class="line">console.info(b) // 2</span><br></pre></td></tr></table></figure><p>##听说你很皮</p><p>皮皮虾</p><p>##RNG牛逼</p><p><a href="lol.com">LOL</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla incidunt aliquam nemo ipsam atque fugiat eaque rerum est vitae praesentiu
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
